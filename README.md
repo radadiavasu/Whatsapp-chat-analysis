@@ -1,7 +1,7 @@
 # Whatsapp-chat-analysis
 
 # Run
-''' Bash
+''' bash
 streamlit run app.py
 '''
 
