@@ -1,9 +1,9 @@
 # Whatsapp-chat-analysis
 
 # Run
-''' bash
+``` bash
 streamlit run app.py
-'''
+```
 
 # About project
 (1) This project is belong analysis of whatsapp chat. After run project succesfully you will automatically redirect on your particular browser.
